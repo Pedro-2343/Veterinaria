@@ -25,22 +25,22 @@
     <main>
         <ul class="produtos">
             <li>
-                <h2>Cabelo</h2>
+                <h2>Check up</h2>
                 <img src="img/cabelo.jpg">
-                <p class="produto-descricao">Na tesoura ou máquina, como o cliente preferir</p>
-                <p class="produto-preco">R$ 25,00</p>
+                <p class="produto-descricao">verificar a saude do seu Pet</p>
+                <p class="produto-preco">R$ 40,00</p>
             </li>
             <li>
-                <h2>Barba</h2>
+                <h2>banhos e tosagem</h2>
                 <img src="img/barba.jpg">
-                <p class="produto-descricao">Corte e desenho profissional de barba</p>
-                <p class="produto-preco">R$ 18,00</p>
+                <p class="produto-descricao">Para a hiegenie e bem estar do Pet</p>
+                <p class="produto-preco">R$ 80,00</p>
             </li>
             <li>
-                <h2>Cabelo + Barba</h2>
+                <h2>vacinação</h2>
                 <img src="img/cabelo+barba.jpg">
-                <p class="produto-descricao">Pacote completo de cabelo e barba</p>
-                <p class="produto-preco">R$ 35,00</p>
+                <p class="produto-descricao">vacina contra doenças para saude do seu Pet</p>
+                <p class="produto-preco">R$ 120,00</p>
             </li>
         </ul>
     </main>
