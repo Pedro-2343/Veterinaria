@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Contato - Barbearia Alura</title>
+    <title>Contato - Veterinaria Pet Mania</title>
 
     <link rel="stylesheet" href="reset.css">
     <link rel="stylesheet" href="style.css">
@@ -26,7 +26,7 @@
 
     <footer>
         <img src="logo-branco.png">
-        <p class="copyright">&copy; Copyright Barbearia Alura - 2025</p>
+        <p class="copyright">&copy; Copyright Veterinaria Pet Mania - 2025</p>
     </footer>
 </body>
 
@@ -67,7 +67,7 @@
 </main>
 <footer>
     <img src="logo-branco.png">
-    <p class="copyright">&copy; Copyright Barbearia Alura - 2019</p>
+    <p class="copyright">&copy; Copyright Veterinaria Pet Mania - 2019</p>
 </footer>
 </body>
 
