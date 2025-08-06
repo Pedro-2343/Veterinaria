@@ -1,2 +1,1 @@
 repositorio criado para criação de pagina web com html e css(para compor a nota de desepenho a nota referente a nota do 2 trimestre do curso tecnico de desenvolvimento de sistema)
-https://github.com/Pedro-2343/Veterinaria.git
