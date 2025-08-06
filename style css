@@ -15,8 +15,9 @@ header {
     text-align: center;
     font-size: 2em;
     margin: 0 0 1em;
-    clear: left;
-}
+    clear: lefT
+     WI
+
 
 .principal {
     padding: 3em 0;
@@ -245,6 +246,10 @@ td, th {
 .mapa-conteudo {
     width: 940px;
     margin: 0 auto;
+    display:flex;
+    justifycontent:center;
+    align-intens:center;
+    
 }
 
 .video {
