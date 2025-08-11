@@ -34,13 +34,13 @@
                 <h2>banhos e tosagem</h2>
                 <img src="download.banho.jpg">
                 <p class="produto-descricao">Para a hiegenie e bem estar do Pet</p>
-                <p class="produto-preco">R$100,00</p>
+                <p class="produto-preco">R$70,00</p>
             </li>
             <li>
                 <h2>vacinação</h2>
                 <img src="download.jpeg">
                 <p class="produto-descricao">vacina contra doenças para saude do seu Pet</p>
-                <p class="produto-preco">R$ 150,00</p>
+                <p class="produto-preco">R$150,00</p>
             </li>
         </ul>
     </main>
