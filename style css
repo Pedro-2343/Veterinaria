@@ -258,13 +258,13 @@ td, th {
 }
 
 #vacinacao {
-    width: 100%;
+    width: 150px;
 }
 
 #banho{
-    width: 100%;
+    width: 150px;
 }
 
 #check{
-    width:100%;
+    width: 150px;
 }
