@@ -26,19 +26,19 @@
         <ul class="produtos">
             <li>
                 <h2>Check up</h2>
-                <img  id="check" src="imagens/Veterinario-em-Domicilio-Como-Funciona-e-Quais-Sao-as-Vantagens-1024x660.webp">
+                <img  class="check" src="imagens/Veterinario-em-Domicilio-Como-Funciona-e-Quais-Sao-as-Vantagens-1024x660.webp">
                 <p class="produto-descricao">verificar a saude do seu Pet</p>
                 <p class="produto-preco">R$ 40,00</p>
             </li>
             <li>
                 <h2>banhos e tosagem</h2>
-                <img id="banho" src="imagens/download.banho.jpg">
+                <img class="banho" src="imagens/download.banho.jpg">
                 <p class="produto-descricao">Para a higienie e bem estar do Pet</p>
                 <p class="produto-preco">R$70,00</p>
             </li>
             <li>
                 <h2>vacinação</h2>
-                <img id="vacinacao" src="imagens/download.jpeg">
+                <img class="vacinacao" src="imagens/download.jpeg">
                 <p class="produto-descricao">vacina contra doenças para saude do seu Pet</p>
                 <p class="produto-preco">R$150,00</p>
             </li>
