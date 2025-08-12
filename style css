@@ -272,3 +272,8 @@ td, th {
 #logo {
     width: 250px;
 }
+
+:root {
+   --cor-principal:#845EC2;
+   --cor-escura:#18025b;
+   --cor-secundaria:#4b4453;}
