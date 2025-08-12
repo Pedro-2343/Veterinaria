@@ -258,19 +258,19 @@ td, th {
 }
 
 #vacinacao {
-    width: 150px;
+    width:50%;
 }
 
 #banho{
-    width: 150px;
+    width:50%;
 }
 
 #check{
-    width: 150px;
+    width:50%;
     }
     
 #logo {
-    width: 250px;
+    width:20%;
 }
 
 :root {
