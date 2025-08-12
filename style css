@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    background: #530909c5;
+    background: #BBBBBB;
     padding: 20px 0;
 }
 
@@ -15,9 +15,8 @@ header {
     text-align: center;
     font-size: 2em;
     margin: 0 0 1em;
-    clear: lefT
-     WI
-
+    clear: left;
+}
 
 .principal {
     padding: 3em 0;
@@ -74,7 +73,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #530909c5;
+    color: #C78C19;
     text-decoration: underline;
 }
 
@@ -97,7 +96,7 @@ nav a:hover {
 }
 
 .produtos li:hover {
-    border-color: #530909;
+    border-color: #C78C19;
 }
 
 .produtos li:active {
@@ -124,7 +123,7 @@ nav a:hover {
 }
 
 main {
-    
+
 }
 
 .beneficios {
@@ -246,10 +245,11 @@ td, th {
 .mapa-conteudo {
     width: 940px;
     margin: 0 auto;
-    display:flex;
-    justifycontent:center;
-    align-intens:center;
-    
+}
+
+.video {
+    width: 560px;
+    margin: 2em auto;
 }
 
 .video {
@@ -267,4 +267,8 @@ td, th {
 
 #check{
     width: 150px;
+    }
+    
+#logo {
+    width: 250px;
 }
