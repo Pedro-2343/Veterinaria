@@ -202,8 +202,8 @@ footer {
 .enviar {
     width: 40%;
     padding: 15px 0;
-    background: orange;
-    color: white;
+    background: purple;
+    color: black;
     font-weight: bold;
     font-size: 18px;
     border: none;
@@ -213,7 +213,7 @@ footer {
 }
 
 .enviar:hover {
-    background: darkorange;
+    background: darkblue;
     transform: scale(1.2);
 }
 
