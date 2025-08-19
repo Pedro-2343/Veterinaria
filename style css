@@ -1,4 +1,4 @@
-body {
+w{
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -281,3 +281,9 @@ td, th {
    --cor-principal:#845EC2;
    --cor-escura:#18025b;
    --cor-secundaria:#4b4453;}
+body{
+  backgroumd-color:#845EC2;/* cor
+hexadecimal
+div{
+  border: 2px solid #18025b;/* cor 
+ 
