@@ -282,8 +282,9 @@ td, th {
    --cor-escura:#18025b;
    --cor-secundaria:#4b4453;}
 body{
-  backgroumd-color:#845EC2;/* cor
-hexadecimal
+  backgroumd-color:#845EC2;}
 div{
-  border: 2px solid #18025b;/* cor 
+  border: 2px solid #18025b;}
  
+
+   
