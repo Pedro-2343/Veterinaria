@@ -5,7 +5,7 @@ body {}
 }
 
 .principal {
-	background: #da15b3ce;
+	background: #5a0c69af;
 	padding: 30px;
 }
 
@@ -34,7 +34,7 @@ p {
 }
 
 em strong {
-	color: #FF0000;
+	color: #7e1d1d;
 }
 
 .itens {
@@ -42,7 +42,7 @@ em strong {
 }
 
 .beneficios {
-	background: #FFFFFF;
+	background: #540b7e;
 	padding: 20px;
 }
 
@@ -58,7 +58,7 @@ em strong {
 }
 
 header {
-	background: #BBBBBB;
+	background: #660b9bd0;
 	padding: 20px 0;
 }
 
