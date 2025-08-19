@@ -189,7 +189,7 @@ form input {
 
 footer {
     text-align: center;
-    background: url("img/bg.jpg");
+    background: url("imagens/images.jpeg");
     padding: 40px 0;
 }
 
