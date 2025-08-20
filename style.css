@@ -3,7 +3,7 @@ w{
 }
 
 header {
-    background: #BBBBBB;
+    background: #41a5be;
     padding: 20px 0;
 }
 .header-logo{
@@ -22,7 +22,7 @@ header {
 
 .principal {
     padding: 3em 0;
-    background: #FEFEFE;
+    background:#41a5be ;
     width: 940px;
     margin: 0 auto;
 }
@@ -130,7 +130,7 @@ main {
 
 .beneficios {
     padding: 3em 0;
-    background: #888888;
+    background:#41a5be;
 }
 
 .conteudo-beneficios {
@@ -224,7 +224,7 @@ table {
 }
 
 thead {
-    background: #555555;
+    background:#41a5be ;
     color: rgb(108, 13, 128);
     font-weight: bold;
 }
