@@ -25,6 +25,7 @@
     </header>
 
     <footer>
+        <form class="form-center"></form>
         <img src="logo-branco.png">
         <p class="copyright">&copy; Copyright Veterinaria Pet Mania - 2025</p>
     </footer>
