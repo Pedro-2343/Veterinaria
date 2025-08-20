@@ -6,7 +6,9 @@ header {
     background: #BBBBBB;
     padding: 20px 0;
 }
-
+.header-logo{
+    width: 80px;
+}
 .banner {
     width: 100%;
 }
@@ -281,11 +283,7 @@ td, th {
    --cor-principal:#845EC2;
    --cor-escura:#18025b;
    --cor-secundaria:#4b4453;}
-   
-body{
-  background-color:#845EC2;}
-div{
-  border: 2px solid #18025b;}
+
  
 .form-center {
     max-width: 600px;

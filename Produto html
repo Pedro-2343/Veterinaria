@@ -11,7 +11,8 @@
 <body>
     <header>
         <div class="caixa">
-            <h1><img id=logo src="imagens/logo veterinaria.png"></h1>
+            <h1><img id=logo src="imagens/logo veterinaria.png"
+             alt="" width="600"/>
 
             <nav>
                 <ul>
@@ -26,28 +27,34 @@
         <ul class="produtos">
             <li>
                 <h2>Check up</h2>
-                <img  class="check" src="imagens/Veterinario-em-Domicilio-Como-Funciona-e-Quais-Sao-as-Vantagens-1024x660.webp">
+                <img  class="check" src="imagens/Veterinario-em-Domicilio-Como-Funciona-e-Quais-Sao-as-Vantagens-1024x660.webp"
+                 alt="" width="200"/>
                 <p class="produto-descricao">verificar a saude do seu Pet.</p>
                 <p class="produto-preco">R$ 40,00</p>
             </li>
             <li>
                 <h2>banhos e tosagem</h2>
-                <img class="banho" src="imagens/download.banho.jpg">
+                <img class="banho" src="imagens/download.banho.jpg"
+                 alt="" width="200"/>
                 <p class="produto-descricao">Para a higienie e bem estar do Pet.</p>
                 <p class="produto-preco">R$70,00</p>
             </li>
             <li>
                 <h2>vacinação</h2>
-                <img class="vacinacao" src="imagens/download.jpeg">
+                <img class="vacinacao" src="imagens/download.jpeg"
+                 alt="" width="200"/>
                 <p class="produto-descricao">vacina contra doenças para saude do seu Pet.</p>
                 <p class="produto-preco">R$150,00</p>
             </li>
         </ul>
     </main>
     <footer>
-        <img src="imagens/logo veterinaria.png">
+        <img src="imagens/logo veterinaria.png"
+         alt="" width="600"/>
         <p class="copyright">&copy; Copyright veterinaria Pet Mania - 2025</p>
     </footer>
 </body>
 
 </html>
+
+
