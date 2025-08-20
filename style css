@@ -288,4 +288,22 @@ div{
   border: 2px solid #18025b;}
  
 
+.form-center label,
+.form-center legend {
+    display: block;
+    font-size: 16px;
+    margin: 0 0 10px;
+}
+
+.form-center input {
+    display: inline-block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: auto;
+}
+
+.form-center .input-padrao {
+    display: inline-block;
+    margin: 0 0 20px;
+    padding: 10px 25px; 
    
