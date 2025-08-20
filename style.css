@@ -284,6 +284,10 @@ td, th {
    --cor-escura:#18025b;
    --cor-secundaria:#4b4453;}
 
+   body{
+  background-color:#845EC2;}
+div{
+  border: 2px solid #18025b;}
  
 .form-center {
     max-width: 600px;
