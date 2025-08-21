@@ -282,12 +282,12 @@ td, th {
 :root {
    --cor-principal:#845EC2;
    --cor-escura:#18025b;
-   --cor-secundaria:#41a5be;}
+   --cor-secundaria:#e3d3e6;}
 
    body{
-  background-color:#5ea1c0;}
+  background-color:#cfb4cc;}
 div{
-  border: 2px solid #3f75d8;}
+  border: 2px solid #d6a7d6;}
  
 .form-center {
     max-width: 600px;
