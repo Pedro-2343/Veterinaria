@@ -22,7 +22,7 @@ header {
 
 .principal {
     padding: 3em 0;
-    background:#41a5be ;
+    background: #47136c;
     width: 940px;
     margin: 0 auto;
 }
@@ -281,7 +281,7 @@ td, th {
 
 :root {
    --cor-principal:#845EC2;
-   --cor-escura:#18025b;
+   --cor-escura:#47136c ;
    --cor-secundaria:#e3d3e6;}
 
    body{
