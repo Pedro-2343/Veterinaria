@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
 @import url(/styles/header.css);
 @import url(/styles/footer.css);
 @import url(/styles/produtos.css);
@@ -37,6 +39,28 @@
 div{
   border: 2px solid #d6a7d6;}
  
+/* SELETORES AVANÇADOS PARA SEREM USADOS
+
+main p {
+    background: purple;
+}
+
+main > p {
+    background: purple; 
+}
+
+img + p { 
+    background: pink;
+}
+
+img ~ p {
+    background: purple
+} 
+
+.principal p:not(#missao) {
+    background: pink;
+}
+
 .form-center {
     max-width: 600px;
     margin: 40px auto;
