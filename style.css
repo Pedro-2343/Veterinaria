@@ -1,6 +1,7 @@
-w{
-    font-family: 'Montserrat', sans-serif;
-}
+@import url(/styles/header.css);
+@import url(/styles/footer.css);
+
+w { font-family: 'Montserrat', sans-serif;}
 
 header {
     background: #845EC2;
