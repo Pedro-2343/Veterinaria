@@ -1,6 +1,6 @@
 footer {
     text-align: center;
-    background: #313030;
+    background: #741d916a;
     padding: 0 0;
 }
 
@@ -9,7 +9,7 @@ footer {
 }
 
 .copyright {
-    color: var(--cor-cinza);
+    color: var(--cor-roxoescuro);
     font-size: 13px;
     margin: 10px 0 0;
 }
