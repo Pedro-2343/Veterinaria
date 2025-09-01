@@ -45,3 +45,11 @@ nav a:hover {
     color: var(--cor-principal);
     text-decoration: underline;
 }
+ /*cofigurações para tablets (telas medias) */
+@media screen and (max-width:488px)
+}
+
+/* configuraçõesw para desktop (telas maiores)  */ 
+@media screen and (max width:488px) {
+    
+}
