@@ -1,24 +1,21 @@
+/* Estilização para telas menores */
 header {
     background: #741d916a;
     padding: 20px 0;
-}
-
-.caixa {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    position: relative;
-    width: 940px;
+    header {
     margin: 0 auto;
 }
 
-
+}
 .logo {
     display: flex;
+    display: none;
     align-items: center;
     font-size: 1.5em;
     font-weight: bold;
+     margin-right: 10px;
 }
+
 
 .header-logo {
     width: 90px;
