@@ -45,21 +45,18 @@ nav a:hover {
     color: var(--cor-principal);
     text-decoration: underline;
 }
- /*configurações para tablets (telas medias) */
-@media screen and (max-width:488px)
-
-
-/* configuraçõesw para desktop (telas maiores)  */ {
-     }@media screen and (min-width:488px) {
-    
-}
-
-#nome_empresa {
-    display: none;
-}
- #nome_empresa {
+ /* Estilização para Tablets (telas médias)    */
+@media screen and (min-width: 480px) {
+    #nome_empresa {
         display: flex;
     }
-nav ul {
-        display: grid;
-    }
+    nav ul {
+        display: inline;
+}
+
+}
+
+/* Estilização para Desktop (telas maiores)   */
+@media screen and (min-width: 1080px) {
+
+}
