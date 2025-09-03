@@ -27,13 +27,7 @@ header {
 
 .header-logo {
     width: 90px;
-    margin-right: 10px;
-}
-
-.header-logo2 {
-    width: 90px;
-    margin-right: 10px;
-}
+    margin-right: 10px;}
 
 #nome_empresa {
     display: none;
