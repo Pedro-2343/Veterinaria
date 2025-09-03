@@ -61,18 +61,21 @@ nav a:hover {
     color: var(--cor-principal);
     text-decoration: underline;
 }
- /* Estilização para Tablets (telas médias)    */
-@media screen and (min-width: 480px) {
+ 
+/* Estilização para Tablets (telas médias)    */
+@media screen and (min-width: 645px) {
     #nome_empresa {
         display: flex;
     }
     nav ul {
         display: inline;
-}
-
+    }
+    
 }
 
 /* Estilização para Desktop (telas maiores)   */
 @media screen and (min-width: 1080px) {
-
+    .caixa {
+        width: 940px;
+    }
 }
