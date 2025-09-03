@@ -33,7 +33,7 @@ form-center {
     width: 40%;
     padding: 15px 0;
     background: purple;
-    color: black;
+    color: rgb(132, 36, 159);
     font-weight: bold;
     font-size: 18px;
     border: none;
@@ -52,7 +52,7 @@ table {
 
 thead {
     background: #47136c;
-    color: rgb(108, 13, 128);
+    color: rgb(139, 31, 160);
     font-weight: bold;
 }
 
