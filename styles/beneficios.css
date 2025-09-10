@@ -10,7 +10,9 @@
     display: flex;
     flex-direction: column;
     width: auto;
+    align-items: center;
 }
+
 .lista-beneficios {
     width: 40%;
     display: inline-block;
