@@ -49,6 +49,7 @@ opacity: 1;
 
 @media screen and (min-width: 480px) {
     .conteudo-beneficios { 
+         flex-direction: row;
         gap: 20px;
         margin: 0 auto;
     }
