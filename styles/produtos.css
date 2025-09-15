@@ -1,8 +1,14 @@
 .produtos {
-    width: 940px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    width: 90%;
+    max-width: 940px;
     margin: 0 auto;
     padding: 50px 0;
 }
+
 
 .produtos li {
     display: inline-block;
@@ -42,3 +48,26 @@
     font-weight: bold;
     margin-top: 10px;
 }
+
+.card-produto{
+    text-align: center;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    border-radius: 10px;
+}
+
+@media screen and (min-width: 480px) {
+    .produtos {
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: stretch;
+        gap: 3%;
+    }
+    .produtos li {
+        flex: 1 1 30%;
+    }
+
+    .imagem-produto{
+        width: 250px;
+    }
